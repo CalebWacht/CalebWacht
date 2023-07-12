@@ -12,8 +12,8 @@
 
 <img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/spring.svg'> </a>
 <img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/nodejs.svg'> </a>
-<img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/c.svg'> </a>
 <img width ='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/c.svg'> </a>
 <img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'> </a>
 <img width ='45px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 
