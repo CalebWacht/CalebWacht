@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Java Development and SQL.
 - 🌱 I’m currently learning Rest API and SpringBoot.
 
-<h2 align="center"> Connect with me 🤝</h2> 
-<p align="center">
+<h2 align="left"> Connect with me 🤝</h2> 
+<p align="left">
 
   <a href="https://linkedin.com/in/caleb-wacht-8930041b0/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/caleb-wacht-8930041b0/" /></a>
