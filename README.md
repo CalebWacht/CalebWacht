@@ -8,7 +8,7 @@
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-wacht-8930041b0/" /></a>
 
-  <a href="https://www.instagram.com/caleb_wacht/" alt="Instagram">
+  <a href="https://www.instagram.com/luka_santos_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luka_santos_/%22/%3E</a>
 </p>
 
