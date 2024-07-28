@@ -21,6 +21,7 @@
 <img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'> </a>
 <img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/java.svg'> </a>
 <img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/docker.svg'> </a>
+<img width ='45px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg'> </a>
 
 <h2> GitHub Stats </h2>
 
