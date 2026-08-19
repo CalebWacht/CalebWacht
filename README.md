@@ -1,6 +1,6 @@
 <h2> About Me ✌️</h2>
 
-- 🔭 I’m currently working on Java Development and SQL.
+- 🔭 I’m currently working on Java Development, SQL and Python.
 - 🌱 I’m currently learning SpringBoot and Python.
 
 <h2 align="left"> Connect with me 🤝</h2> 
